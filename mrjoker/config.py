@@ -16,9 +16,9 @@ class Config(object):
 
     API_ID= 6235351 # integer value, dont use ""
     API_HASH= "f68fde1378da8f85a243f2ae57f2fcf9"
-    TOKEN = "5031427097:AAFBwYpQ3wlgXrv4nSDPf8J3Mcflh3ZJ9KU"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 5042525177   # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "IamRooot"
+    TOKEN = "5139344076:AAGe8KZzAxgWr8PHVN6tGfK3nrMAiTytHkg"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    OWNER_ID = 1601406864   # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "Your_ddy"
     SUPPORT_CHAT = "Mr_Jokr_support"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
         -1001235511467
@@ -40,14 +40,14 @@ class Config(object):
 
     # OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
-    DRAGONS = "5042525177"
+    DRAGONS = "1601406864"
     ##List of id's - (not usernames) for developers who will have the same perms as the owner
-    DEV_USERS = "5042525177"
+    DEV_USERS = "1601406864"
     ##List of id's (not usernames) for users which are allowed to gban, but can also be banned.
-    DEMONS = "5042525177"
+    DEMONS = "1601406864"
     # List of id's (not usernames) for users which WONT be banned/kicked by the bot.
-    TIGERS = "5042525177"
-    WOLVES = "5042525177"
+    TIGERS = "1601406864"
+    WOLVES = "1601406864"
     DONATION_LINK = None  # EG, paypal
     CERT_PATH = None
     PORT = 5000
